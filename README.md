@@ -4,7 +4,7 @@ A quick little C++ program to print out all the words in that GamePigeon game wo
 # Usage
 Run these commands in any unix shell with c++11 and git installed (which should be almost any shell nowadays).
 ## To download
->  `git clone https://github.com/kpstesla/WordHuntSolver.git`
+>  `git clone https://github.com/kpstesla/WordHuntSolver.git && cd WordHuntSolver`
 ## To compile:
 > `g++ -std=c++11 -o WordHuntSolver *.cpp`
 ## To run
